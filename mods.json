@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "create-1.20.1-6.0.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/create-1.20.1-6.0.1.jar?raw=true",
+      "sha1": "227ec216cf649b9aa50cd0a492a240a584d6e1b0",
+      "size": 18638806
+    },
+    {
+      "name": "jei-1.20.1-forge-15.20.0.106.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/jei-1.20.1-forge-15.20.0.106.jar?raw=true",
+      "sha1": "77928d15d797663846cba44de8f79e4e4c5fdbb7",
+      "size": 1379220
+    }
+  ]
+}
