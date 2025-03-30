@@ -11,6 +11,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/jei-1.20.1-forge-15.20.0.106.jar?raw=true",
       "sha1": "77928d15d797663846cba44de8f79e4e4c5fdbb7",
       "size": 1379220
+    },
+    {
+      "name": "wissterria-0.0.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/wissterria-0.0.1.jar?raw=true",
+      "sha1": "cfd9a526937d8b8a0bacfa0b605a07c433b53de5",
+      "size": 7950
     }
   ]
 }
