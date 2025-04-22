@@ -43,10 +43,10 @@
       "size": 3173637
     },
     {
-      "name": "CosmeticArmours - 1.5.1.0 - 1.20.1 - Forge.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/CosmeticArmours%20-%201.5.1.0%20-%201.20.1%20-%20Forge.jar?raw=true",
-      "sha1": "6eafa48befe7083a4d50428d421fed3c91d0b8a8",
-      "size": 16006536
+      "name": "CosmeticArmours - 1.5.2.1 - 1.20.1 - Forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/CosmeticArmours%20-%201.5.2.1%20-%201.20.1%20-%20Forge.jar?raw=true",
+      "sha1": "7f97ca4cd0babf0b13df2706d1356094caff3db2",
+      "size": 16255279
     },
     {
       "name": "create-1.20.1-6.0.4.jar",
@@ -61,6 +61,12 @@
       "size": 1547196
     },
     {
+      "name": "createdeco-2.0.3-1.20.1-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createdeco-2.0.3-1.20.1-forge.jar?raw=true",
+      "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
+      "size": 3509013
+    },
+    {
       "name": "FarmersDelight-1.20.1-1.2.7.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/FarmersDelight-1.20.1-1.2.7.jar?raw=true",
       "sha1": "0e614a93c6520d7b4e6714ba110daa416f07c716",
@@ -71,6 +77,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/immersive_aircraft-1.2.2%2B1.20.1-forge.jar?raw=true",
       "sha1": "5f1c9fb4a9825557a951bd5f97465fe44fc01df7",
       "size": 2180392
+    },
+    {
+      "name": "interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/interiors-0.5.6%2Bforge-mc1.20.1-build.104.jar?raw=true",
+      "sha1": "fe4c41e125f01e64c4ac08a8b201abaea98f1a95",
+      "size": 591437
     },
     {
       "name": "jei-1.20.1-forge-15.19.0.91.jar",
@@ -169,8 +181,14 @@
       "size": 1119976
     },
     {
-      "name": "Patchouli-1.20.1-84-FORGE (2).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/Patchouli-1.20.1-84-FORGE%20(2).jar?raw=true",
+      "name": "OptiFine_1.20.1_HD_U_I6.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/OptiFine_1.20.1_HD_U_I6.jar?raw=true",
+      "sha1": "227914ab1037762eae44a2e66a568b87d7a02365",
+      "size": 7145205
+    },
+    {
+      "name": "Patchouli-1.20.1-84-FORGE.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/Patchouli-1.20.1-84-FORGE.jar?raw=true",
       "sha1": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
       "size": 642506
     },
@@ -211,14 +229,14 @@
       "size": 107533
     },
     {
-      "name": "travelersbackpack-forge-1.20.1-9.1.33.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/travelersbackpack-forge-1.20.1-9.1.33.jar?raw=true",
-      "sha1": "d411f3283ba3c5481054d642f62a999605efd74c",
-      "size": 1148755
+      "name": "travelersbackpack-forge-1.20.1-9.1.36.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/travelersbackpack-forge-1.20.1-9.1.36.jar?raw=true",
+      "sha1": "0a70017a06fb7386bf320928bbaea00bb74e9a55",
+      "size": 1161380
     },
     {
-      "name": "webdisplays-2.0.2-1.20.1 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/webdisplays-2.0.2-1.20.1%20(1).jar?raw=true",
+      "name": "webdisplays-2.0.2-1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/webdisplays-2.0.2-1.20.1.jar?raw=true",
       "sha1": "f05566e3b898de8542fa7fa79aebd2cff69b89e6",
       "size": 811968
     },
