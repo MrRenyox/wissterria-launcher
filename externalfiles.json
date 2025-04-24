@@ -2,9 +2,9 @@
   "extfiles": [
     {
       "path": "wissterria.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/wissterria.jar?raw=true",
-      "sha1": "e50945e8fed9ed7ab8f16ab8c888d26b29b01835",
-      "size": 40967693
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/wissterria.jar",
+      "sha1": "eb2ea43fb315b099a0057ae1fc22996ab8c947a7",
+      "size": 40967691
     }
   ]
 }
