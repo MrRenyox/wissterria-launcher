@@ -19,6 +19,12 @@
       "size": 26350793
     },
     {
+      "name": "architectury-9.2.14-forge (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/architectury-9.2.14-forge%20(1).jar?raw=true",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602
+    },
+    {
       "name": "BiomesOPlenty-1.20.1-18.0.0.592 (1).jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/BiomesOPlenty-1.20.1-18.0.0.592%20(1).jar?raw=true",
       "sha1": "15072eb39c35a3f845d4bb04690d4b7f1808a980",
@@ -49,6 +55,12 @@
       "size": 3173637
     },
     {
+      "name": "cloth-config-11.1.136-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/cloth-config-11.1.136-forge.jar?raw=true",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413
+    },
+    {
       "name": "CosmeticArmours - 1.5.2.1 - 1.20.1 - Forge.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/CosmeticArmours%20-%201.5.2.1%20-%201.20.1%20-%20Forge.jar?raw=true",
       "sha1": "7f97ca4cd0babf0b13df2706d1356094caff3db2",
@@ -71,6 +83,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createdeco-2.0.3-1.20.1-forge.jar?raw=true",
       "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
       "size": 3509013
+    },
+    {
+      "name": "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createsongsandspeakers-forge-mc1.20-0.5%20-%20Fork%20of%203.22.0-alpha.3.jar?raw=true",
+      "sha1": "ca77e31c8345728edf849d5f711a0e99c4589ba7",
+      "size": 10006334
     },
     {
       "name": "FarmersDelight-1.20.1-1.2.7.jar",
@@ -101,6 +119,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/jei-1.20.1-forge-15.19.0.91.jar?raw=true",
       "sha1": "46625c472d64e345ff719f61358358974d4d13dd",
       "size": 1381592
+    },
+    {
+      "name": "journeymap-1.20.1-5.10.3-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/journeymap-1.20.1-5.10.3-forge.jar?raw=true",
+      "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a",
+      "size": 7160405
     },
     {
       "name": "kotlinforforge-4.11.0-all (1).jar",
@@ -199,6 +223,12 @@
       "size": 7145205
     },
     {
+      "name": "otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar?raw=true",
+      "sha1": "4c129437845f8d808ee56663fb7413dfed2f8daf",
+      "size": 655951
+    },
+    {
       "name": "Patchouli-1.20.1-84-FORGE.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/Patchouli-1.20.1-84-FORGE.jar?raw=true",
       "sha1": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
@@ -257,12 +287,6 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/wissterria-0.0.1.jar?raw=true",
       "sha1": "cfd9a526937d8b8a0bacfa0b605a07c433b53de5",
       "size": 7950
-    },
-    {
-      "name": "journeymap-1.20.1-5.10.3-forge.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/journeymap-1.20.1-5.10.3-forge.jar?raw=true",
-      "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a",
-      "size": 7160405
     }
   ]
 }
