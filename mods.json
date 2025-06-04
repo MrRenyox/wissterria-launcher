@@ -203,6 +203,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/watut-forge-1.20.1-1.2.3.jar?raw=true",
       "sha1": "d376debf1f96f37dbedf56919baeb7da2dcef9ab",
       "size": 435496
+    },
+    {
+      "name": "wissterria-0.0.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/wissterria-0.0.1.jar?raw=true",
+      "sha1": "eff2833ab9a1136211f6ea34271aa73a6e65474c",
+      "size": 42515
     }
   ]
 }
