@@ -37,6 +37,12 @@
       "size": 487764
     },
     {
+      "name": "create-1.20.1-6.0.4.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/create-1.20.1-6.0.4.jar?raw=true",
+      "sha1": "1b57eab3600805d705bb64933bc0cb7836b41886",
+      "size": 18463134
+    },
+    {
       "name": "FarmersDelight-1.20.1-1.2.8.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/FarmersDelight-1.20.1-1.2.8.jar?raw=true",
       "sha1": "a3402ee46cf12583416b8fbe84a97dd20ba1401a",
