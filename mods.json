@@ -7,6 +7,12 @@
       "size": 4648724
     },
     {
+      "name": "alexsdelight-1.5 (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/alexsdelight-1.5%20(1).jar?raw=true",
+      "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba",
+      "size": 55398
+    },
+    {
       "name": "alexsmobs-1.22.9 (1).jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/alexsmobs-1.22.9%20(1).jar?raw=true",
       "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
@@ -23,6 +29,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/BiomesOPlenty-1.20.1-18.0.0.592.jar?raw=true",
       "sha1": "15072eb39c35a3f845d4bb04690d4b7f1808a980",
       "size": 21800460
+    },
+    {
+      "name": "car-forge-1.20.1-1.0.34 (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/car-forge-1.20.1-1.0.34%20(1).jar?raw=true",
+      "sha1": "bfb60d55983cc7e17c4e10aff8d6a4788f3e1868",
+      "size": 2659299
     },
     {
       "name": "carryon-forge-1.20.1-2.1.2.7.jar",
@@ -67,6 +79,18 @@
       "size": 1547196
     },
     {
+      "name": "createdeco-2.0.3-1.20.1-forge (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createdeco-2.0.3-1.20.1-forge%20(1).jar?raw=true",
+      "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
+      "size": 3509013
+    },
+    {
+      "name": "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3 (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createsongsandspeakers-forge-mc1.20-0.5%20-%20Fork%20of%203.22.0-alpha.3%20(1).jar?raw=true",
+      "sha1": "ca77e31c8345728edf849d5f711a0e99c4589ba7",
+      "size": 10006334
+    },
+    {
       "name": "eyemod-3.0.0.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/eyemod-3.0.0.jar?raw=true",
       "sha1": "d65d65abd8b0148a646dfaee5f031edb1038b8c4",
@@ -85,6 +109,12 @@
       "size": 4248211
     },
     {
+      "name": "interiors-0.5.6+forge-mc1.20.1-build.104 (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/interiors-0.5.6%2Bforge-mc1.20.1-build.104%20(1).jar?raw=true",
+      "sha1": "fe4c41e125f01e64c4ac08a8b201abaea98f1a95",
+      "size": 591437
+    },
+    {
       "name": "jei-1.20.1-forge-15.20.0.106.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/jei-1.20.1-forge-15.20.0.106.jar?raw=true",
       "sha1": "77928d15d797663846cba44de8f79e4e4c5fdbb7",
@@ -101,6 +131,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/mcef-forge-2.1.6-1.20.1.jar?raw=true",
       "sha1": "6d9fa1433d509be242d1d74282d02a0fbebde110",
       "size": 218417
+    },
+    {
+      "name": "mcw-doors-1.1.2-mc1.20.1forge (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/mcw-doors-1.1.2-mc1.20.1forge%20(1).jar?raw=true",
+      "sha1": "731069f0a9c1377da0681415b6523e71439ae014",
+      "size": 1250199
     },
     {
       "name": "mcw-furniture-3.3.0-mc1.20.1forge.jar",
@@ -185,6 +221,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/notenoughanimations-forge-1.9.3-mc1.20.1.jar?raw=true",
       "sha1": "68e3ab1b89d39a48362a4741a50c73e7ebb2fe7a",
       "size": 453719
+    },
+    {
+      "name": "otyacraftengine-forge-mc1.20-3.7.0-alpha.2 (1).jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2%20(1).jar?raw=true",
+      "sha1": "4c129437845f8d808ee56663fb7413dfed2f8daf",
+      "size": 655951
     },
     {
       "name": "Patchouli-1.20.1-84.1-FORGE.jar",
