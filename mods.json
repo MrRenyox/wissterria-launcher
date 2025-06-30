@@ -1,10 +1,10 @@
 {
   "mods": [
     {
-      "name": "[1.20.1] SecurityCraft v1.9.12.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/%5B1.20.1%5D%20SecurityCraft%20v1.9.12.jar?raw=true",
-      "sha1": "2c63515a9900fd7b4620c2ad5fdcba1bf4d3e948",
-      "size": 4553681
+      "name": "[1.20.1] SecurityCraft v1.10.0.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/%5B1.20.1%5D%20SecurityCraft%20v1.10.0.1.jar?raw=true",
+      "sha1": "497e922cadb9650a5edab4dc26694bedbd830bf2",
+      "size": 4648724
     },
     {
       "name": "architectury-9.2.14-forge.jar",
