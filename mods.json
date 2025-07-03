@@ -311,6 +311,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/webdisplays-2.0.1-1.20.1%20(3).jar?raw=true",
       "sha1": "3c41edaa908a127e27e9640e41686c2060daf89f",
       "size": 779998
+    },
+    {
+      "name": "wissterria-0.0.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/wissterria-0.0.1.jar?raw=true",
+      "sha1": "567d3c97824236924608b8aa68dbffc075f262bb",
+      "size": 7952
     }
   ]
 }
