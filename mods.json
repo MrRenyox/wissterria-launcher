@@ -7,14 +7,14 @@
       "size": 4648724
     },
     {
-      "name": "alexsdelight-1.5 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/alexsdelight-1.5%20(1).jar?raw=true",
+      "name": "alexsdelight-1.5.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/alexsdelight-1.5.jar?raw=true",
       "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba",
       "size": 55398
     },
     {
-      "name": "alexsmobs-1.22.9 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/alexsmobs-1.22.9%20(1).jar?raw=true",
+      "name": "alexsmobs-1.22.9.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/alexsmobs-1.22.9.jar?raw=true",
       "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
       "size": 26350793
     },
@@ -31,8 +31,8 @@
       "size": 21800460
     },
     {
-      "name": "car-forge-1.20.1-1.0.34 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/car-forge-1.20.1-1.0.34%20(1).jar?raw=true",
+      "name": "car-forge-1.20.1-1.0.34.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/car-forge-1.20.1-1.0.34.jar?raw=true",
       "sha1": "bfb60d55983cc7e17c4e10aff8d6a4788f3e1868",
       "size": 2659299
     },
@@ -43,14 +43,14 @@
       "size": 439457
     },
     {
-      "name": "citadel-2.6.1-1.20.1 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/citadel-2.6.1-1.20.1%20(1).jar?raw=true",
-      "sha1": "97ccbfda78ed538669352d868ad6fa6075ec6a99",
-      "size": 3173637
+      "name": "citadel-2.6.2-1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/citadel-2.6.2-1.20.1.jar?raw=true",
+      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd",
+      "size": 3185379
     },
     {
-      "name": "cloth-config-11.1.136-forge (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/cloth-config-11.1.136-forge%20(1).jar?raw=true",
+      "name": "cloth-config-11.1.136-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/cloth-config-11.1.136-forge.jar?raw=true",
       "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
       "size": 1181413
     },
@@ -61,40 +61,52 @@
       "size": 64187
     },
     {
-      "name": "CosmeticArmours - 1.5.2.1 - 1.20.1 - Forge (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/CosmeticArmours%20-%201.5.2.1%20-%201.20.1%20-%20Forge%20(1).jar?raw=true",
+      "name": "CosmeticArmours - 1.5.2.1 - 1.20.1 - Forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/CosmeticArmours%20-%201.5.2.1%20-%201.20.1%20-%20Forge.jar?raw=true",
       "sha1": "7f97ca4cd0babf0b13df2706d1356094caff3db2",
       "size": 16255279
     },
     {
-      "name": "create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/create_enchantment_industry-1.3.2-for-create-6.0.4.jar?raw=true",
-      "sha1": "69c646642b6c7d97f7876cd847201c5d810b9e49",
-      "size": 487764
+      "name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/create_enchantment_industry-1.3.3-for-create-6.0.6.jar?raw=true",
+      "sha1": "06fbad254100a7c9fcf829e1e33c5348d9799a87",
+      "size": 488060
     },
     {
-      "name": "create-1.20.1-6.0.4.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/create-1.20.1-6.0.4.jar?raw=true",
-      "sha1": "1b57eab3600805d705bb64933bc0cb7836b41886",
-      "size": 18463134
+      "name": "create-1.20.1-6.0.6.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/create-1.20.1-6.0.6.jar?raw=true",
+      "sha1": "c5eb5efad7a4776d558b44b28891f2e33eef03e4",
+      "size": 18764522
     },
     {
-      "name": "createaddition-1.20.1-1.3.1 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createaddition-1.20.1-1.3.1%20(1).jar?raw=true",
+      "name": "createaddition-1.20.1-1.3.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createaddition-1.20.1-1.3.1.jar?raw=true",
       "sha1": "0c408317b7c3bc3c7f7d5f6dbbb3ee106fa5f4fc",
       "size": 1547196
     },
     {
-      "name": "createdeco-2.0.3-1.20.1-forge (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createdeco-2.0.3-1.20.1-forge%20(1).jar?raw=true",
+      "name": "createdeco-2.0.3-1.20.1-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createdeco-2.0.3-1.20.1-forge.jar?raw=true",
       "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
       "size": 3509013
     },
     {
-      "name": "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createsongsandspeakers-forge-mc1.20-0.5%20-%20Fork%20of%203.22.0-alpha.3%20(1).jar?raw=true",
+      "name": "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/createsongsandspeakers-forge-mc1.20-0.5%20-%20Fork%20of%203.22.0-alpha.3.jar?raw=true",
       "sha1": "ca77e31c8345728edf849d5f711a0e99c4589ba7",
       "size": 10006334
+    },
+    {
+      "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar?raw=true",
+      "sha1": "08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38",
+      "size": 625488
+    },
+    {
+      "name": "escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar?raw=true",
+      "sha1": "63fb74d5080e179d8bf7e62f385b70ec0c82d2b5",
+      "size": 700338
     },
     {
       "name": "eyemod-3.0.0.jar",
@@ -109,22 +121,28 @@
       "size": 2962947
     },
     {
-      "name": "FramedBlocks-9.4.1 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/FramedBlocks-9.4.1%20(1).jar?raw=true",
-      "sha1": "4dc6627ae7405643713523ea3275a5310b0e1131",
-      "size": 4248211
+      "name": "FramedBlocks-9.4.2.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/FramedBlocks-9.4.2.jar?raw=true",
+      "sha1": "68b8301c8124dd00ea70c216066b1fe207e25345",
+      "size": 4251277
     },
     {
-      "name": "interiors-0.5.6+forge-mc1.20.1-local (3).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/interiors-0.5.6%2Bforge-mc1.20.1-local%20(3).jar?raw=true",
+      "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/interiors-0.5.6%2Bforge-mc1.20.1-local.jar?raw=true",
       "sha1": "5f46c829dc012138faa1191d97ef79c7569b53a1",
       "size": 465540
     },
     {
-      "name": "jei-1.20.1-forge-15.20.0.106.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/jei-1.20.1-forge-15.20.0.106.jar?raw=true",
-      "sha1": "77928d15d797663846cba44de8f79e4e4c5fdbb7",
-      "size": 1379220
+      "name": "jei-1.20.1-forge-15.20.0.112.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/jei-1.20.1-forge-15.20.0.112.jar?raw=true",
+      "sha1": "f12b3781af6337794ae6e010420a97585360ea2f",
+      "size": 1385600
+    },
+    {
+      "name": "journeymap-1.20.1-5.10.3-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/journeymap-1.20.1-5.10.3-forge.jar?raw=true",
+      "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a",
+      "size": 7160405
     },
     {
       "name": "kotlinforforge-4.11.0-all.jar",
@@ -139,8 +157,8 @@
       "size": 218417
     },
     {
-      "name": "mcw-doors-1.1.2-mc1.20.1forge (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/mcw-doors-1.1.2-mc1.20.1forge%20(1).jar?raw=true",
+      "name": "mcw-doors-1.1.2-mc1.20.1forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/mcw-doors-1.1.2-mc1.20.1forge.jar?raw=true",
       "sha1": "731069f0a9c1377da0681415b6523e71439ae014",
       "size": 1250199
     },
@@ -157,10 +175,10 @@
       "size": 1864023
     },
     {
-      "name": "mcw-windows-2.3.0-mc1.20.1forge.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/mcw-windows-2.3.0-mc1.20.1forge.jar?raw=true",
-      "sha1": "3d1f0d0334126b6014c43bf496776366620d0229",
-      "size": 1309586
+      "name": "mcw-windows-2.4.0-1.20.1forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/mcw-windows-2.4.0-1.20.1forge.jar?raw=true",
+      "sha1": "729457d0adb369f8151618e71d3638df148623f5",
+      "size": 1320945
     },
     {
       "name": "MOAdecor ART 1.20.1.jar",
@@ -181,8 +199,8 @@
       "size": 1537747
     },
     {
-      "name": "MOAdecor ELECTRONICS 1.20.1.A (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20ELECTRONICS%201.20.1.A%20(1).jar?raw=true",
+      "name": "MOAdecor ELECTRONICS 1.20.1.A.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20ELECTRONICS%201.20.1.A.jar?raw=true",
       "sha1": "3872fef55f75009bc029dbb1826dc10d10cd21cf",
       "size": 1140709
     },
@@ -223,14 +241,14 @@
       "size": 150844
     },
     {
-      "name": "notenoughanimations-forge-1.9.3-mc1.20.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/notenoughanimations-forge-1.9.3-mc1.20.1.jar?raw=true",
-      "sha1": "68e3ab1b89d39a48362a4741a50c73e7ebb2fe7a",
-      "size": 453719
+      "name": "notenoughanimations-forge-1.10.1-mc1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/notenoughanimations-forge-1.10.1-mc1.20.1.jar?raw=true",
+      "sha1": "ed3c4929d6bb08deebe7397b878cfbcb08172d71",
+      "size": 847497
     },
     {
-      "name": "otyacraftengine-forge-mc1.20-3.7.0-alpha.2 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2%20(1).jar?raw=true",
+      "name": "otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar?raw=true",
       "sha1": "4c129437845f8d808ee56663fb7413dfed2f8daf",
       "size": 655951
     },
@@ -241,16 +259,22 @@
       "size": 642711
     },
     {
-      "name": "pipeorgans-0.7.1+1.20.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/pipeorgans-0.7.1%2B1.20.1.jar?raw=true",
-      "sha1": "95cf0b44dc39b0a56ec38636c634c933810a0809",
-      "size": 2732019
+      "name": "PatPatPat-Forge-1.20.1-1.2.0.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/PatPatPat-Forge-1.20.1-1.2.0.jar?raw=true",
+      "sha1": "a2001da594e83b80c7f5d677f6b8951ef0272158",
+      "size": 38886
     },
     {
-      "name": "Saros-Money-Mod.1.20.1-3.5.2.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/Saros-Money-Mod.1.20.1-3.5.2.jar?raw=true",
-      "sha1": "adb2a322a080aed50407c711ffa8a8909f5062ca",
-      "size": 349741
+      "name": "pipeorgans-0.7.3+1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/pipeorgans-0.7.3%2B1.20.1.jar?raw=true",
+      "sha1": "2af85f219a3e528b7e2f0fb1afd7e4df711658b2",
+      "size": 2742472
+    },
+    {
+      "name": "Saros-Money-Mod.1.20.1-3.5.3.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/Saros-Money-Mod.1.20.1-3.5.3.jar?raw=true",
+      "sha1": "da33b21b516085ff6d7117900e4dc498402f88b5",
+      "size": 350490
     },
     {
       "name": "Saros-Road-Signs-Mod-1.20.1-3.7.jar",
@@ -265,16 +289,16 @@
       "size": 555625
     },
     {
-      "name": "skinlayers3d-forge-1.7.5-mc1.20.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/skinlayers3d-forge-1.7.5-mc1.20.1.jar?raw=true",
-      "sha1": "b3c7025f1330efb98165609b16fe0eb1f3ba3aa6",
-      "size": 485970
+      "name": "skinlayers3d-forge-1.8.2-mc1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/skinlayers3d-forge-1.8.2-mc1.20.1.jar?raw=true",
+      "sha1": "66fbcca03360453f07ede303d9fcf97750f167f7",
+      "size": 878668
     },
     {
-      "name": "sliceanddice-forge-3.4.0 (1).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sliceanddice-forge-3.4.0%20(1).jar?raw=true",
-      "sha1": "705208db673f97abf5d82ab2849a69fdd7c0dc7a",
-      "size": 1032971
+      "name": "sliceanddice-forge-3.4.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sliceanddice-forge-3.4.1.jar?raw=true",
+      "sha1": "836411d9c265b17dbb4acc7a59d99aa5ac52ec59",
+      "size": 1187478
     },
     {
       "name": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
@@ -283,22 +307,22 @@
       "size": 203819
     },
     {
+      "name": "tacz-1.20.1-1.1.6-hotfix.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/tacz-1.20.1-1.1.6-hotfix.jar?raw=true",
+      "sha1": "e951d81b5f452bcad47c20d5b491fd26f8de8ce2",
+      "size": 47826468
+    },
+    {
       "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar?raw=true",
       "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
       "size": 107532
     },
     {
-      "name": "TheSpotlightMod_1.2.0.101_mc1.12.2_universal.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/TheSpotlightMod_1.2.0.101_mc1.12.2_universal.jar?raw=true",
-      "sha1": "09733467c8d484e909115246762297aa65f14c89",
-      "size": 484549
-    },
-    {
-      "name": "travelersbackpack-forge-1.20.1-9.1.38.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/travelersbackpack-forge-1.20.1-9.1.38.jar?raw=true",
-      "sha1": "9bc0e2b5d0d6147cb570199048874656f7c57b80",
-      "size": 1173691
+      "name": "travelersbackpack-forge-1.20.1-9.1.39.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/travelersbackpack-forge-1.20.1-9.1.39.jar?raw=true",
+      "sha1": "04c1479c0d8ed435f2a32c18d5f3342ae299e9d1",
+      "size": 1175676
     },
     {
       "name": "watut-forge-1.20.1-1.2.3.jar",
@@ -307,10 +331,10 @@
       "size": 435496
     },
     {
-      "name": "webdisplays-2.0.1-1.20.1 (3).jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/webdisplays-2.0.1-1.20.1%20(3).jar?raw=true",
-      "sha1": "3c41edaa908a127e27e9640e41686c2060daf89f",
-      "size": 779998
+      "name": "webdisplays-2.0.2-1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/webdisplays-2.0.2-1.20.1.jar?raw=true",
+      "sha1": "f05566e3b898de8542fa7fa79aebd2cff69b89e6",
+      "size": 811968
     },
     {
       "name": "wissterria-0.0.1.jar",
