@@ -127,6 +127,12 @@
       "size": 4251277
     },
     {
+      "name": "Immersive Vehicles-1.20.1-22.18.0-pre.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/Immersive%20Vehicles-1.20.1-22.18.0-pre.jar?raw=true",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
       "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/interiors-0.5.6%2Bforge-mc1.20.1-local.jar?raw=true",
       "sha1": "5f46c829dc012138faa1191d97ef79c7569b53a1",
@@ -245,6 +251,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/notenoughanimations-forge-1.10.1-mc1.20.1.jar?raw=true",
       "sha1": "ed3c4929d6bb08deebe7397b878cfbcb08172d71",
       "size": 847497
+    },
+    {
+      "name": "OCP 1.20 beta1.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/OCP%201.20%20beta1.1.jar?raw=true",
+      "sha1": "b2d3bc1fafdaaca52945e0fadbf70c260b6dec7f",
+      "size": 51444963
     },
     {
       "name": "otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
