@@ -103,6 +103,18 @@
       "size": 625488
     },
     {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar?raw=true",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675
+    },
+    {
+      "name": "entityculling-forge-1.8.2-mc1.20.1.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/entityculling-forge-1.8.2-mc1.20.1.jar?raw=true",
+      "sha1": "0a465a4dbbc4b21b3465bb15796635b5c1024cf4",
+      "size": 478568
+    },
+    {
       "name": "escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar?raw=true",
       "sha1": "63fb74d5080e179d8bf7e62f385b70ec0c82d2b5",
@@ -121,10 +133,22 @@
       "size": 2962947
     },
     {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/ferritecore-6.0.1-forge.jar?raw=true",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034
+    },
+    {
       "name": "FramedBlocks-9.4.2.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/FramedBlocks-9.4.2.jar?raw=true",
       "sha1": "68b8301c8124dd00ea70c216066b1fe207e25345",
       "size": 4251277
+    },
+    {
+      "name": "ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/ImmediatelyFast-Forge-1.5.1%2B1.20.4.jar?raw=true",
+      "sha1": "f1687e57a835e44a9ecf2f343cba5817936f8ae0",
+      "size": 425068
     },
     {
       "name": "Immersive Vehicles-1.20.1-22.18.0-pre.jar",
@@ -257,6 +281,12 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/OCP%201.20%20beta1.1.jar?raw=true",
       "sha1": "b2d3bc1fafdaaca52945e0fadbf70c260b6dec7f",
       "size": 51444963
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/oculus-mc1.20.1-1.8.0.jar?raw=true",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119
     },
     {
       "name": "otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
