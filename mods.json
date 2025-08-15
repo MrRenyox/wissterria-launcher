@@ -55,12 +55,6 @@
       "size": 1181413
     },
     {
-      "name": "connectedglass-1.1.14-forge-mc1.20.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/connectedglass-1.1.14-forge-mc1.20.1.jar?raw=true",
-      "sha1": "2f65edcf4faed33979d5dec81597b472abf17325",
-      "size": 873714
-    },
-    {
       "name": "coroutil-forge-1.20.1-1.3.7.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/coroutil-forge-1.20.1-1.3.7.jar?raw=true",
       "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
@@ -149,12 +143,6 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/FramedBlocks-9.4.2.jar?raw=true",
       "sha1": "68b8301c8124dd00ea70c216066b1fe207e25345",
       "size": 4251277
-    },
-    {
-      "name": "fusion-1.2.10-forge-mc1.20.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/fusion-1.2.10-forge-mc1.20.1.jar?raw=true",
-      "sha1": "372c78d9d28e2974263f31e5c9254b4e986962dc",
-      "size": 542652
     },
     {
       "name": "ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
@@ -359,12 +347,6 @@
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar?raw=true",
       "sha1": "629e987b2a0c9342a31dfdef67590f228d949c34",
       "size": 203819
-    },
-    {
-      "name": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar?raw=true",
-      "sha1": "d37e1148b512c67cee704635b4f07d1f9ea8c31c",
-      "size": 515362
     },
     {
       "name": "tacz-1.20.1-1.1.6-hotfix.jar",
