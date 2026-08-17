@@ -211,60 +211,6 @@
       "size": 1784829
     },
     {
-      "name": "MOAdecor ART 1.21.1.B.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20ART%201.21.1.B.jar?raw=true",
-      "sha1": "d3d2edc170321eef1b743a970f94f5ef233b2afe",
-      "size": 1150376
-    },
-    {
-      "name": "MOAdecor BATH 1.21.1.C.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20BATH%201.21.1.C.jar?raw=true",
-      "sha1": "e9dc663f29b914bf65eea96f261e83a53a5ce3dc",
-      "size": 1208329
-    },
-    {
-      "name": "MOAdecor COOKERY 1.21.1.B.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20COOKERY%201.21.1.B.jar?raw=true",
-      "sha1": "602aae695f3dbf0bfa586daabc75d8a1cf8ca8b8",
-      "size": 1585487
-    },
-    {
-      "name": "MOAdecor ELECTRONICS 1.21.1.A.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20ELECTRONICS%201.21.1.A.jar?raw=true",
-      "sha1": "ce27147e02874ab05e86cc105f02c91400587a5c",
-      "size": 1126146
-    },
-    {
-      "name": "MOAdecor Garden 1.21.1.A.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20Garden%201.21.1.A.jar?raw=true",
-      "sha1": "c639ad58943b8e1809b8cb3f117410065bfd77b2",
-      "size": 1493543
-    },
-    {
-      "name": "MOAdecor HOLIDAYS 1.21.1.A.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20HOLIDAYS%201.21.1.A.jar?raw=true",
-      "sha1": "cbbdd33d20da0666751c0b3510c3fbde65c34453",
-      "size": 1243370
-    },
-    {
-      "name": "MOAdecor LIGHTS 1.21.1.A.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20LIGHTS%201.21.1.A.jar?raw=true",
-      "sha1": "7c6f86748de1f380456e41490979a0157693dd64",
-      "size": 1023749
-    },
-    {
-      "name": "MOAdecor SCIENCE 1.21.1.A.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20SCIENCE%201.21.1.A.jar?raw=true",
-      "sha1": "aa46730381f661784ba062bbf3eeb50c4aa60cf8",
-      "size": 1107518
-    },
-    {
-      "name": "MOAdecor TOYS 1.21.1.A.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MOAdecor%20TOYS%201.21.1.A.jar?raw=true",
-      "sha1": "844c3edf4f3f28ece6a4769afa7d722193cfc791",
-      "size": 1348683
-    },
-    {
       "name": "MoreLeads-neoforge-1.21-1.2.0.jar",
       "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/MoreLeads-neoforge-1.21-1.2.0.jar?raw=true",
       "sha1": "d1b5a0a7c98b61d745317a2c90703723307cf7b3",
