@@ -104,7 +104,7 @@
     },
     {
       "name": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar?raw=true",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar?raw=true",
       "sha1": "6a3cc7dc17fb701087a9705b06d75d9bb5f09065",
       "size": 465787
     },
@@ -134,7 +134,7 @@
     },
     {
       "name": "forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar?raw=true",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar?raw=true",
       "sha1": "4fe8b0c2110bc3228bbe4dfec38092a7dcabe028",
       "size": 5590613
     },
@@ -152,7 +152,7 @@
     },
     {
       "name": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar?raw=true",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/ImmediatelyFast-NeoForge-1.6.11%2B1.21.1.jar?raw=true",
       "sha1": "6594ea2759455f4e135b9479f807bacf4b4b0b43",
       "size": 361795
     },
@@ -290,15 +290,15 @@
     },
     {
       "name": "PatPat-1.3.1+1.21.1+neoforge.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/PatPat-1.3.1+1.21.1+neoforge.jar?raw=true",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/PatPat-1.3.1%2B1.21.1%2Bneoforge.jar?raw=true",
       "sha1": "72d13161b1964e86fb1626ba3301c19688c4e61b",
       "size": 1210834
     },
     {
-      "name": "sable-neoforge-1.21.1-2.0.3.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sable-neoforge-1.21.1-2.0.3.jar?raw=true",
-      "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756",
-      "size": 12889000
+      "name": "sable-neoforge-1.21.1-2.0.4.jar",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sable-neoforge-1.21.1-2.0.4.jar?raw=true",
+      "sha1": "d3d0518f91b559a65d8548e9b6f0a2f88bbc81d3",
+      "size": 12986102
     },
     {
       "name": "saros__money_mod-3.8.3.jar",
@@ -314,7 +314,7 @@
     },
     {
       "name": "simplylight-1.5.3+1.21.1-b4.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/simplylight-1.5.3+1.21.1-b4.jar?raw=true",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/simplylight-1.5.3%2B1.21.1-b4.jar?raw=true",
       "sha1": "d85bfed3824cb66d258acf11c73edaf11d583223",
       "size": 1103352
     },
@@ -338,7 +338,7 @@
     },
     {
       "name": "sodium-neoforge-0.8.12+mc1.21.1.jar",
-      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sodium-neoforge-0.8.12+mc1.21.1.jar?raw=true",
+      "downloadURL": "https://github.com/MrRenyox/wissterria-launcher/blob/main/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar?raw=true",
       "sha1": "762251ab3d6825d5accfd89c3f02f1145376105e",
       "size": 1291418
     },
